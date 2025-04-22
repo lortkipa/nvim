@@ -1,0 +1,2 @@
+-- setup
+require('gitsigns').setup()

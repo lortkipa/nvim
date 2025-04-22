@@ -1,0 +1,2 @@
+-- setup
+require("ibl").setup()
