@@ -109,6 +109,11 @@ _G.packer_plugins = {
     path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/lualine.nvim",
     url = "https://github.com/nvim-lualine/lualine.nvim"
   },
+  ["nvim-highlight-colors"] = {
+    loaded = true,
+    path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/nvim-highlight-colors",
+    url = "https://github.com/brenoprata10/nvim-highlight-colors"
+  },
   ["nvim-tree.lua"] = {
     loaded = true,
     path = "/home/nikoloz/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
